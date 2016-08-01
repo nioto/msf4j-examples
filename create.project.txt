@@ -1,0 +1,1 @@
+mvn archetype:generate -DarchetypeGroupId=org.wso2.msf4j -DarchetypeArtifactId=msf4j-microservice -DarchetypeVersion=2.0.0 -DgroupId=net.nioto.msf4j -DartifactId=Hello-Service -Dversion=0.1 -Dpackage=net.nioto.msf4j.service -DserviceClass=HelloService
